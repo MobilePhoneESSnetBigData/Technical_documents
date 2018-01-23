@@ -1,4 +1,5 @@
 # Estimation Population
 
-WP5 Mobile phone data
+## WP5 Mobile phone data
+
 The aim of this workpackage is to investigate how NSIs may obtain more or less ‘stable’ and continuous access to the data. In the current situation, most NSIs face complications to get access to these data due to legal, privacy and contractual issues. On the other hand, the potential of mobile phone data as a data source for official statistics is beyond any debate. This workpackage will describe concrete statistical outputs – relevant for official statistics – based on mobile phone data (and previous studies) and discuss the pro’s and con’s of using aggregated or microdata from mobile phone providers for these actions. The 1st year of the action will be used to get access to the data based on this plan. It is envisaged that in a possible SGA-2 an appropiate pilot based on the plan (if the data are available) will be run. Challenges ahead are: data access, representativity issues, linking to other datasets, linking the outputs to other statistical estimates.
