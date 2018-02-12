@@ -14,7 +14,7 @@ The main statistical output will be the population dynamics in several stages:
 
 The goal of this work package is not these statistical outputs per se but to use them as a vehicle to assess the necessary statistical methodology and technological requirements to obtain the results together with an evaluation of the adequacy of the common data quality framework for Official Statistics.
 
-## Statistical methodologv. IT requirements and data quality
+## Statistical methodology. IT requirements and data quality
 
 Regarding the methodology the three aspects of greater interest will be:
 * the presumably novel statistical methods to perform the classification of units using mobile phone data possibly combined with some other Official Statistics sources and/or outputs (Census, Population Registers, etc.);
