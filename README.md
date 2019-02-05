@@ -48,9 +48,9 @@ The quality of the statistical outputs will also be evaluated with a double purp
 * to assess the quality of the novelties in the statistical production, both from the point of view of the process and of the product; 
 * to assess the adequacy of the common quality framework for this new source of data.
 
-## Phase 5
+## Future perspectives
 
-The final phase of the work package (Future perspectives) will be accounted crosssectionally, i.e. all findings in each task will be correspondingly assessed in terms of their immediate and future applicability under standard production conditions within the ESS.
+The final phase of the work package will be accounted crosssectionally, i.e. all findings in each task will be correspondingly assessed in terms of their immediate and future applicability under standard production conditions within the ESS.
 
 As part of the future perspectives, we will analyse those conditions in each task related to international comparability, data sharing among NSls and sustainability of sources for production in the long term.
 
