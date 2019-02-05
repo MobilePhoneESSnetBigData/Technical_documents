@@ -1,4 +1,4 @@
-#ESSNET BIG DATA I - General Objectives
+# ESSNET BIG DATA I - General Objectives
 
 The ESSnet BIG DATA is part of the Big Data Action Plan and Roadmap 1.06 (BDAR below) and it was agreed to integrate it into the ESS Vision 2020 portfolio. The related business case Big Data received the support of the ESSC at its meeting on 20 June 2015 in Luxemburg.
 The overall objective of the project is to prepare the ESS for integration of big data sources into the production of official statistics. The award criteria mentioned that the project has to focus on running pilot projects exploring the potential of selected big data sources for producing or contributing to the production of official statistics. Aim of these pilots is to undertake concrete action in the domain of big data and obtain hands-on experience in the use of big data for official statistics.
