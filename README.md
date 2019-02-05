@@ -1,12 +1,29 @@
-# Mobile Phone Data for Official Statistics
+#ESSNET BIG DATA I - General Objectives
 
-## WP5 Mobile phone data
+The ESSnet BIG DATA is part of the Big Data Action Plan and Roadmap 1.06 (BDAR below) and it was agreed to integrate it into the ESS Vision 2020 portfolio. The related business case Big Data received the support of the ESSC at its meeting on 20 June 2015 in Luxemburg.
+The overall objective of the project is to prepare the ESS for integration of big data sources into the production of official statistics. The award criteria mentioned that the project has to focus on running pilot projects exploring the potential of selected big data sources for producing or contributing to the production of official statistics. Aim of these pilots is to undertake concrete action in the domain of big data and obtain hands-on experience in the use of big data for official statistics.
+Taking into account these objectives, this ESSnet is meant to go from exploration to exploitation of big data for official statistics. This shows the difference of this European-funded international big data project compared to more scientific and policy-making projects in the domain of big data. It also clarifies the choices of activities which are included in this ESSnet or not.
+
+During the first part of the project a consortium of 22 partners, consisting of 20 National Statistical Institutes and 2 Statistical Authorities has been formed in September 2015 to meet the objectives of the project. According to the Framework Partnership Agreement (FPA) between the consortium and Eurostat, the project runs between February 2016 and May 2018. To concentrate the work as much as possible on the pilots, the consortium has organised its work around the pilots. More specifically, the consortium has subdivided its work into the following work packages:
+WP 0 : Co-ordination
+WP 1 : Webscraping / Job Vacancies
+WP 2 : Webscraping / Enterprise Characteristics
+WP 3 : Smart Meters
+WP 4 : AIS Data
+WP 5 : Mobile Phone Data
+WP 6 : Early Estimates
+WP 7 : Multi Domains
+WP 8 : Methodology
+WP 9 : Dissemination
+
+## WP5 Mobile Phone Data for Official Statistics
 
 The aim of this workpackage is to investigate how NSIs may obtain more or less ‘stable’ and continuous access to the mobile phone data. In the current situation, most NSIs face complications to get access to these data due to legal, privacy and contractual issues. On the other hand, the potential of mobile phone data as a data source for official statistics is beyond any debate. This workpackage will describe concrete statistical outputs – relevant for official statistics – based on mobile phone data (and previous studies) and discuss the pro’s and con’s of using aggregated or microdata from mobile phone providers for these actions. The 1st year of the action was used to get access to the data based on this plan. Challenges ahead are: data access, representativity issues, linking to other datasets, linking the outputs to other statistical estimates.
 
-## Statistical outputs
 
-The main statistical output will be the population dynamics in several stages:
+
+## Statistical outputs
+The first part of the project was focused on data access. In the second part of the project, the main statistical output will be the population dynamics in several stages:
 
 * For a sub-municipal partition of the territory and an intra-day time division we will produce a distribution of the population. The grain of these partitions will be decided according to a preliminary analysis of the diverse data sets seeking for maximum comparability.
 * The computation of these distributions will also be conducted according to a classification of population in terms of concepts of interest: tourist/non-tourist, commuter/non•commuter,... These concepts will be also chosen according to the preliminary analysis of the data sets.
