@@ -10,7 +10,7 @@ In total 28 ESS members have expressed interest in participating in the ESSnet.
 
 Four new pilot projects will be carried out, resulting in experimental statistics. They concern (1) use of financial transactions data, (2) use of remotely sensed data (e.g., satellite images, in-situ measurements, etc.), (3) use of mobile network operator data and (4) use of innovative sources and methods for tourism statistics.
 
-The main results of the project are presented here: https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/GitHub
+A link to other github repositories with the results of the project is: https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/GitHub
 
 
 ## WPI Mobile Networks Data
