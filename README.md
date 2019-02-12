@@ -10,6 +10,8 @@ In total 28 ESS members have expressed interest in participating in the ESSnet.
 
 Four new pilot projects will be carried out, resulting in experimental statistics. They concern (1) use of financial transactions data, (2) use of remotely sensed data (e.g., satellite images, in-situ measurements, etc.), (3) use of mobile network operator data and (4) use of innovative sources and methods for tourism statistics.
 
+The main results of the project are presented here: https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/GitHub
+
 
 ## WPI Mobile Networks Data
 The main objective of the WPI on mobile phone data is to carry out the construction of a production framework already initiated in the former ESSnet on Big Data. A modular instead of a linear approach will be followed both to avoid potential blockings in the research due to the obstacles in accessing real data and to optimally develop the different elements in the production framework. The modular approach will enable the project to concentrate on many different aspects of the framework as the data access itself and the relationship with Mobile Network Operators, both the methodological and IT elements (thus also enabling the identification of necessary skills and capabilities), quality issues as well as proposals for standards and related metadata and dissemination aspects of statistical products (mainly visualization thus orienting the outputs towards stakeholders). As a novelty, the use of instrumental (semi-simulated) data closely resembling real data (when these are not accessible) will be used in this line of work. All in all, the ultimate goal is to push forward an ESS production framework with mobile phone data aiming at a standardised statistical production process.
